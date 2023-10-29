@@ -1,24 +1,24 @@
 a {
-	color: #0065d0;
+  color: #0065d0;
 }
 a:visited {
-	color: #0065d0;
+  color: #0065d0;
 }
 
 body {
-	max-width: 700px;
-	margin: auto;
-	padding: 0 10px;
-	font-family: sans-serif;
+  max-width: 700px;
+  margin: auto;
+  padding: 0 10px;
+  font-family: sans-serif;
 }
 
 nav {
-	text-align: center;
-	margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 nav a {
-	padding: 10px;
+  padding: 10px;
 }
 
 .center {
@@ -29,6 +29,16 @@ nav a {
 
 .center-text {
   text-align: center;
+}
+
+.center-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start
+}
+
+.inline-block {
+  display: inline-block;
 }
 
 .top-margin {
