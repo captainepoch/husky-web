@@ -6,5 +6,5 @@ You can visit it at [husky.adol.pw][husky].
 
 [MIT][copying].
 
-[copying]: https://git.sr.ht/~captainepoch/husky-web/tree/pages/item/COPYING
+[copying]: https://github.com/captainepoch/husky-web/blob/pages/COPYING
 [husky]: https://husky.adol.pw
